@@ -1,4 +1,4 @@
-#Personal Version with solutions to the problems.
+# Personal Version with solutions to the problems.
 
 # The Odin Project Ruby Exercises
 
