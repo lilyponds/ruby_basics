@@ -1,3 +1,5 @@
+#Personal Version with solutions to the problems.
+
 # The Odin Project Ruby Exercises
 
 ## About this repository
